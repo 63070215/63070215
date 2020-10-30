@@ -3,7 +3,7 @@
         <title>Hello world</title>
     </head>
     <body>
-        <h1>My first Heading</h1>
+        <h1>jirapun</h1>
         <p>My first Paragraph</p>
         <img src="Board_mite.jpg">
         <br>
