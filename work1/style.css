@@ -1,0 +1,26 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+body {
+  height: 100%;
+}
+
+.cell {
+  padding: 15px; /*เปลี่ยนเลขได้*/
+}
+.cell-body {
+  height: 100%;
+  padding: 20px; /*เปลี่ยนเลขได้*/
+  background-color: black; /*เปลี่ยนสีได้*/
+  color: #ffffff; /*เปลี่ยนสีได้*/
+}
+
+.row-height {
+  min-height: 80vh !important; /*เปลี่ยนเลขได้*/
+}
+
+.height-100 {
+  height: 100% !important;
+}
