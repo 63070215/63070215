@@ -11,7 +11,7 @@
 	</style>
 </head>
 <body class="bg-primary py-5">
-	<div class="container text-white">
+	<div class="container text-black">
 		<div class="row">
 			<div class="col-12 col-lg-8 offset-lg-2">
 				<div class="card shadow">
