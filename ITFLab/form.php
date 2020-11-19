@@ -17,7 +17,7 @@
 				<div class="card shadow">
 					<div class="card-body">
 						<div class="row">
-							<div class="col-6"><h1 class="text-monospace">Form</h1></div>
+							<div class="col-6"><h1 class="text-monospace">กรอกข้อมูล</h1></div>
 						</div>
 						<form action="insert.php" method="post">
 							<div class="form-group">
@@ -33,8 +33,8 @@
 								<input type="text" name="link" class="form-control">
 							</div>
 							<div class="text-center">
-								<button type="submit" class="btn btn-sm btn-warning my-3 font-weight-bold">SUBMIT</button>
-								<a class="btn btn-sm btn-light my-3" href="index.php">Cancel</a>
+								<button type="submit" class="btn btn-sm btn-warning my-3 font-weight-bold">ยืนยัน</button>
+								<a class="btn btn-sm btn-light my-3" href="index.php">ยกเลิก</a>
 							</div>
 						</form>
 					</div>
