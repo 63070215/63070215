@@ -18,7 +18,7 @@
 					<div class="card-body">
 						<div class="row">
 							<div class="col-6"><h1 class="text-monospace">Database</h1></div>
-							<div class="col-6 text-right"><a href="form.php" class="btn btn-warning btn-sm font-weight-bold"></a></div>
+							<div class="col-6 text-right"><a href="form.php" class="btn btn-warning btn-sm font-weight-bold">เพิ่ม</a></div>
 						</div>
 						<div class="table-responsive">
 							<?php
