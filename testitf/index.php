@@ -46,10 +46,10 @@
 									?>
 									<tr>
 										<td><a href="edit.php?ID=<?php echo $Result['ID'];?>" class="btn btn-sm btn-success mb-2 mb-md-0">แก้ไข</a></td>
-										<td><?php echo $Result['Name'];?></td>
-										<td><?php echo $Result['Comment'];?></td>
-                                        <td><?php echo $Result['Link'];?></td>
-                                        <td><?php echo $Result['Link'];?></td>
+										<td><?php echo $Result['name'];?></td>
+										<td><?php echo $Result['weight'];?></td>
+                                        <td><?php echo $Result['height'];?></td>
+                                        <td><?php echo $Result['bmi'];?></td>
 									</tr>
 									<?php
 										}
