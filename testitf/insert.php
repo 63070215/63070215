@@ -7,7 +7,7 @@
 	$name = $_POST['name'];
 	$height = $_POST['height'];
     $weight = $_POST['weight'];
-    $bmi = $_POST['weight']/(($_POST['height']/100)**2)
+    $bmi = $_POST['weight']/(($_POST['height']/100)**2);
 	$sql = "INSERT INTO itf (name, height, weight, bmi) VALUES ('$name', '$height', '$weight', '&bmi')";
 ?>
 <!DOCTYPE html>
