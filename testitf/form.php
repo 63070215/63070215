@@ -26,7 +26,7 @@
 							</div>
 							<div class="form-group">
 								<label>Height</label>
-								<input type="float" step = "0.01" name="height" class="form-control" rows="5" required>
+								<input type="float" step = "0.01" name="height" class="form-control" required>
 							</div>
 							<div class="form-group">
 								<label>Weight</label>
